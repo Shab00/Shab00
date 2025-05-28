@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Bashaar 👋
 
-<!--
-**Shab00/Shab00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **MSc Computing (in progress)**  
+🔬 **Current Project:** Data Science & Machine Learning analysis of "red pill" content on YouTube  
+⚽ **Upcoming:** SaaS predictive football score model website  
+🏠 **Also building:** SaaS for monitoring NW London housing & price trends
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 About Me
+
+- Passionate about data science, machine learning, and building real-world solutions.
+- Learning C the hard way (Zed Shaw) and tackling coding challenges on Leetcode, Codfinity, and with AI-generated problems.
+- Always exploring new tech and open to collaboration.
+
+## 🚀 Tech & Tools
+
+- **Languages:** Python, C (learning), a bit of everything else
+- **Domains:** Data Science, Machine Learning, SaaS, Web
+- **Tools:** Jupyter, VS Code, Git/GitHub
+
+## 📈 What I'm Working On
+
+- Deep-dive ML project analyzing YouTube content
+- Football score prediction SaaS
+- NW London housing market SaaS
+- Daily coding practice & learning
+
+## 🌐 Connect
+
+- [LinkedIn](#) https://www.linkedin.com/in/bashaar-dhoot/
+- [Twitter](#) https://x.com/Bashaar13578392
+- Email: bashaardhoot@gmail.com
+
+---
+
+_Thanks for visiting my profile!_
