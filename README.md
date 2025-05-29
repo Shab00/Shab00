@@ -28,8 +28,8 @@
 
 ## 🌐 Connect
 
-- [LinkedIn](#) https://www.linkedin.com/in/bashaar-dhoot/
-- [Twitter](#) https://x.com/Bashaar13578392
+- [LinkedIn](https://www.linkedin.com/in/bashaar-dhoot/)  
+- [Twitter](https://x.com/Bashaar13578392)  
 - Email: bashaardhoot@gmail.com
 
 ---
