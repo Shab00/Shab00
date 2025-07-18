@@ -10,6 +10,7 @@
 ## 🧑‍💻 About Me
 
 - Passionate about data science, machine learning, and building real-world solutions.
+- Provided end-to-end IT consulting, designing and launching full digital presence for a startup client.
 - Currently learning C with "Head First C"—switched from Zed Shaw's book for a different perspective and approach.
 - Always exploring new tech and open to collaboration.
 
