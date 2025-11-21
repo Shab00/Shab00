@@ -24,12 +24,12 @@
 
 - YouTube — "Red Pill" Content Analysis (completed)  
   - Finished a reproducible analysis: collected video metadata and comments, performed multi-model sentiment/emotion analysis and topic modelling, and produced notebooks and visualisations summarising engagement and themes.  
-  - Notebooks & artifacts: (add link to repo/notebooks)
+  - Notebooks & artifacts: [Link](https://github.com/Shab00/redPillYoutube)
 
 - Football Match Outcome Prediction — SaaS & Business Simulation (in progress)  
   - Building an end-to-end pipeline (ingestion → feature engineering → LightGBM modeling → calibration → API). Working on MVP inference endpoint, calibration, and subscription delivery flow.  
   - Current focus: finalising model calibration, production snapshotting and the delivery pipeline (WhatsApp/Stripe integration).  
-  - Repo / demo: (add link to football repo)
+  - Repo / demo: [Link](https://github.com/Shab00/Over-Under2.5Goals)
 
 - Marketplace Notifier — Pokémon Card WhatsApp Notifier (product experiment; on hold)  
   - Detects listings for specified Pokémon cards on marketplaces (eBay, etc.) and notifies subscribers via WhatsApp.  
@@ -41,6 +41,8 @@
   - Client project — built and deployed the official site for Greenlight Ecology.  
   - Role: end-to-end IT consultant (design, static build, AWS S3 + CloudFront deployment, SSL).  
   - Live: (add URL) · Tech: HTML, CSS, JavaScript
+     - [Website]: [Link to site](https://www.greenlightecology.co.uk/)
+
 
 ## Spare Time
 
