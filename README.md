@@ -41,7 +41,7 @@
   - Client project — built and deployed the official site for Greenlight Ecology.  
   - Role: end-to-end IT consultant (design, static build, AWS S3 + CloudFront deployment, SSL).  
   - Live: (add URL) · Tech: HTML, CSS, JavaScript
-     - [Website]: [Link to site](https://www.greenlightecology.co.uk/)
+     - Website: [Link to site](https://www.greenlightecology.co.uk/)
 
 
 ## Spare Time
