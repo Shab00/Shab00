@@ -36,6 +36,14 @@
   - Planned features: listing ingestion/scraping, matching rules, Twilio WhatsApp notifications and a subscription opt-in flow.  
   - Status: on hold while consulting stakeholders and completing the football project. Will resume once requirements are finalised.
 
+## Greenlight Ecology — Website
+
+  - Client project — built and deployed the official site for Greenlight Ecology.  
+  - Role: end-to-end IT consultant (design, static build, AWS S3 + CloudFront deployment, SSL).  
+  - Live: (add URL) · Tech: HTML, CSS, JavaScript
+
+## Spare Time
+
 - Coding practice & C learning  
   - Ongoing algorithms & data structures practice and C exercises (Head First C, Learn C the Hard Way).
 
