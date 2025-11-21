@@ -1,36 +1,54 @@
 # Hi, I'm Bashaar 👋
 
-🎓 **MSc Computing (in progress)**  
-🔬 **Current Project:** Data Science & Machine Learning analysis of "red pill" content on YouTube  
-⚽ **Upcoming:** SaaS predictive football score model website  
-🏠 **Also building:** SaaS for monitoring NW London housing & price trends
+🎓 **MSc Computing (in progress)** — Current module: M816 Data Management (DAMA‑DMBOK2)  
+🔬 **Completed:** Data Science & Machine Learning analysis of "red pill" content on YouTube  
+⚽ **In progress:** SaaS predictive football score model website  
+🎴 **Product experiment (on hold):** Pokémon card WhatsApp notifier for marketplace listings (eBay, etc.)
 
 ---
 
 ## 🧑‍💻 About Me
 
 - Passionate about data science, machine learning, and building real-world solutions.
-- Provided end-to-end IT consulting, designing and launching full digital presence for a startup client.
-- Currently learning C with "Head First C"—switched from Zed Shaw's book for a different perspective and approach.
+- Provided end-to-end IT consulting, designing and launching a full digital presence for a startup client.
+- Currently learning C with *Head First C*—switched from Zed Shaw's book for a different perspective and approach.
 - Always exploring new tech and open to collaboration.
 
 ## 🚀 Tech & Tools
 
-- **Languages:** Python, C (learning), a bit of everything else
-- **Domains:** Data Science, Machine Learning, SaaS, Web
-- **Tools:** Jupyter, VS Code, Git/GitHub
+- **Languages:** Python, C (learning), a bit of everything else  
+- **Domains:** Data Science, Machine Learning, SaaS, Web  
+- **Tools:** Jupyter, Vim, Git/GitHub, Docker, FastAPI
 
-## 📈 What I'm Working On
+## 📈 Projects & Status
 
-- Deep-dive ML project analyzing YouTube content
-- Football score prediction SaaS
-- NW London housing market SaaS
-- Daily coding practice & learning
+- YouTube — "Red Pill" Content Analysis (completed)  
+  - Finished a reproducible analysis: collected video metadata and comments, performed multi-model sentiment/emotion analysis and topic modelling, and produced notebooks and visualisations summarising engagement and themes.  
+  - Notebooks & artifacts: (add link to repo/notebooks)
+
+- Football Match Outcome Prediction — SaaS & Business Simulation (in progress)  
+  - Building an end-to-end pipeline (ingestion → feature engineering → LightGBM modeling → calibration → API). Working on MVP inference endpoint, calibration, and subscription delivery flow.  
+  - Current focus: finalising model calibration, production snapshotting and the delivery pipeline (WhatsApp/Stripe integration).  
+  - Repo / demo: (add link to football repo)
+
+- Marketplace Notifier — Pokémon Card WhatsApp Notifier (product experiment; on hold)  
+  - Detects listings for specified Pokémon cards on marketplaces (eBay, etc.) and notifies subscribers via WhatsApp.  
+  - Planned features: listing ingestion/scraping, matching rules, Twilio WhatsApp notifications and a subscription opt-in flow.  
+  - Status: on hold while consulting stakeholders and completing the football project. Will resume once requirements are finalised.
+
+- Coding practice & C learning  
+  - Ongoing algorithms & data structures practice and C exercises (Head First C, Learn C the Hard Way).
+
+## 🎓 MSc & Coursework
+
+- MSc Computing (in progress) — The Open University  
+  - Current module: M816 Data Management (DAMA‑DMBOK2) — topics include data governance, data quality, metadata management, master data management, data architecture and lifecycle.  
+  - I’m mapping module concepts to my projects and will publish governance & QA artifacts (e.g., governance markdown, metadata catalog, data-quality checks) as I complete them.
 
 ## 🌐 Connect
 
 - [LinkedIn](https://www.linkedin.com/in/bashaar-dhoot/)  
-- [Twitter](https://x.com/Bashaar13578392)  
+- [Twitter/X](https://x.com/Bashaar13578392)  
 - bashaardhoot@gmail.com
 
 ---
