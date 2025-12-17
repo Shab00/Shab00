@@ -48,7 +48,7 @@
 
 - Coding practice & C learning  
   - Ongoing algorithms & data structures practice and C exercises (Head First C, Learn C the Hard Way).
-  - Chess engine — Building a from‑scratch chess engine as a learning project. Implementing board/FEN I/O, robust move generation + make/unmake, perft tests for correctness, and a search stack (minimax → alpha‑beta → iterative deepening) with UCI support planned. Emphasis on correctness-first development, perft regression tests, and sanitizer-friendly code. Repo: [Link](https://github.com/Shab00/Over-Under2.5Goals)
+  - Chess engine — Building a from‑scratch chess engine as a learning project. Implementing board/FEN I/O, robust move generation + make/unmake, perft tests for correctness, and a search stack (minimax → alpha‑beta → iterative deepening) with UCI support planned. Emphasis on correctness-first development, perft regression tests, and sanitizer-friendly code. Repo: [Link](https://github.com/Shab00/chessEngine)
 
 ## 🎓 MSc & Coursework
 
