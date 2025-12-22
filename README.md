@@ -1,26 +1,26 @@
-# Hi, I'm Bashaar 👋
+# Hi, I'm Bashaar 
 
-🎓 **MSc Computing (in progress)** — Current module: M816 Data Management (DAMA‑DMBOK2)  
-🔬 **Completed:** Data Science & Machine Learning analysis of "red pill" content on YouTube  
-⚽ **In progress:** SaaS predictive football score model website  
-🎴 **Product experiment (on hold):** Pokémon card WhatsApp notifier for marketplace listings (eBay, etc.)
+**MSc Computing (in progress)** — Current module: M816 Data Management (DAMA‑DMBOK2)  
+**Completed:** Data Science & Machine Learning analysis of "red pill" content on YouTube  
+**In progress:** SaaS predictive football score model website  
+**Product experiment (on hold):** Pokémon card WhatsApp notifier for marketplace listings (eBay, etc.)
 
 ---
 
-## 🧑‍💻 About Me
+##  About Me
 
 - Passionate about data science, machine learning, and building real-world solutions.
 - Provided end-to-end IT consulting, designing and launching a full digital presence for a startup client.
 - Currently learning C with *Head First C*—switched from Zed Shaw's book for a different perspective and approach.
 - Always exploring new tech and open to collaboration.
 
-## 🚀 Tech & Tools
+## Tech & Tools
 
 - **Languages:** Python, C (learning), a bit of everything else  
 - **Domains:** Data Science, Machine Learning, SaaS, Web  
 - **Tools:** Jupyter, Vim, Git/GitHub, Docker, FastAPI
 
-## 📈 Projects & Status
+## Projects & Status
 
 - YouTube — "Red Pill" Content Analysis (completed)  
   - Finished a reproducible analysis: collected video metadata and comments, performed multi-model sentiment/emotion analysis and topic modelling, and produced notebooks and visualisations summarising engagement and themes.  
@@ -50,7 +50,7 @@
   - Ongoing algorithms & data structures practice and C exercises (The C programming language, Head First C, Learn C the Hard Way).
   - Chess engine — Building a from‑scratch chess engine as a learning project. Implementing board/FEN I/O, robust move generation + make/unmake, perft tests for correctness, and a search stack (minimax → alpha‑beta → iterative deepening) with UCI support planned. Emphasis on correctness-first development, perft regression tests, and sanitizer-friendly code. Repo: [Link](https://github.com/Shab00/chessEngine)
 
-## 🎓 MSc & Coursework
+## MSc & Coursework
 
 - MSc Computing (in progress) — The Open University  
   - Current module: M816 Data Management (DAMA‑DMBOK2) — topics include data governance, data quality, metadata management, master data management, data architecture and lifecycle.  
