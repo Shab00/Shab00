@@ -11,12 +11,12 @@
 
 - Passionate about data science, machine learning, and building real-world solutions.
 - Provided end-to-end IT consulting, designing and launching a full digital presence for a startup client.
-- Currently learning C with *Head First C*—switched from Zed Shaw's book for a different perspective and approach.
+- C is one of my main languages; I continue to deepen my expertise using Head First C alongside practical projects.
 - Always exploring new tech and open to collaboration.
 
 ## Tech & Tools
 
-- **Languages:** Python, C (learning), a bit of everything else  
+- **Languages:** Python, C, a bit of everything else  
 - **Domains:** Data Science, Machine Learning, SaaS, Web  
 - **Tools:** Jupyter, Vim, Git/GitHub, Docker, FastAPI
 
@@ -46,7 +46,7 @@
 
 ## Spare Time
 
-- Coding practice & C learning  
+- Coding practice & C development  
   - Ongoing algorithms & data structures practice and C exercises (The C programming language, Head First C, Learn C the Hard Way).
   - Chess engine — Building a from‑scratch chess engine as a learning project. Implementing board/FEN I/O, robust move generation + make/unmake, perft tests for correctness, and a search stack (minimax → alpha‑beta → iterative deepening) with UCI support planned. Emphasis on correctness-first development, perft regression tests, and sanitizer-friendly code. Repo: [Link](https://github.com/Shab00/chessEngine)
 
