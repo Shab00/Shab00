@@ -11,7 +11,7 @@
 
 - Passionate about data science, machine learning, and building real-world solutions.
 - Provided end-to-end IT consulting, designing and launching a full digital presence for a startup client.
-- C is one of my main languages; I continue to deepen my expertise using Head First C alongside practical projects.
+- C is one of my main languages; I continue to deepen my expertise using K&R, The C programming language, alongside practical projects.
 - Always exploring new tech and open to collaboration.
 
 ## Tech & Tools
