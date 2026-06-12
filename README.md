@@ -1,67 +1,78 @@
-# Hi, I'm Bashaar 
+# Hi, I'm Bashaar
 
-**MSc Computing (in progress)** — Current module: M816 Data Management (DAMA‑DMBOK2)  
-**Completed:** Data Science & Machine Learning analysis of "red pill" content on YouTube  
-**In progress:** SaaS predictive football score model website  
-**Product experiment (on hold):** Pokémon card WhatsApp notifier for marketplace listings (eBay, etc.)
+I’m an MSc Computing student with a strong interest in software engineering, machine learning, backend systems, and data-driven applications.
 
----
+Most of my experience has been built through hands-on technical projects. I enjoy taking ideas from prototype to working system, learning quickly when I hit gaps, and improving projects through iteration, testing, and careful debugging.
 
-##  About Me
+## What I work on
+- Python backend systems
+- Machine learning and predictive modelling
+- Data pipelines and analysis
+- C systems programming
+- APIs, deployment, and practical product builds
 
-- Passionate about data science, machine learning, and building real-world solutions.
-- Provided end-to-end IT consulting, designing and launching a full digital presence for a startup client.
-- C is one of my main languages; I continue to deepen my expertise using K&R, The C programming language, alongside practical projects.
-- Always exploring new tech and open to collaboration.
+## Featured Projects
 
-## Tech & Tools
+### Football Match Outcome Predictor
+An end-to-end Premier League prediction pipeline built with Python, LightGBM, FastAPI, bookmaker odds ingestion, calibration, and Telegram delivery.
 
-- **Languages:** Python, C, a bit of everything else  
-- **Domains:** Data Science, Machine Learning, SaaS, Web  
-- **Tools:** Jupyter, Vim, Git/GitHub, Docker, FastAPI
+**Highlights:**
+- fixture and odds scraping pipeline
+- feature engineering and model training
+- FastAPI snapshot endpoint
+- delivery logging, CI, and observability with Prometheus/Grafana
 
-## Projects & Status
-
-- YouTube — "Red Pill" Content Analysis (completed)  
-  - Finished a reproducible analysis: collected video metadata and comments, performed multi-model sentiment/emotion analysis and topic modelling, and produced notebooks and visualisations summarising engagement and themes.  
-  - Notebooks & artifacts: [Link](https://github.com/Shab00/redPillYoutube)
-
-- Football Match Outcome Prediction — SaaS & Business Simulation (in progress)  
-  - Building an end-to-end pipeline (ingestion → feature engineering → LightGBM modeling → calibration → API). Working on MVP inference endpoint, calibration, and subscription delivery flow.  
-  - Current focus: finalising model calibration, production snapshotting and the delivery pipeline (WhatsApp/Stripe integration).  
-  - Repo / demo: [Link](https://github.com/Shab00/Over-Under2.5Goals)
-
-- Marketplace Notifier — Pokémon Card WhatsApp Notifier (product experiment; on hold)  
-  - Detects listings for specified Pokémon cards on marketplaces (eBay, etc.) and notifies subscribers via WhatsApp.  
-  - Planned features: listing ingestion/scraping, matching rules, Twilio WhatsApp notifications and a subscription opt-in flow.  
-  - Status: on hold while consulting stakeholders and completing the football project. Will resume once requirements are finalised.
-
-## Greenlight Ecology — Website
-
-  - Client project — built and deployed the official site for Greenlight Ecology.  
-  - Role: end-to-end IT consultant (design, static build, AWS S3 + CloudFront deployment, SSL).  
-  - Live: (add URL) · Tech: HTML, CSS, JavaScript
-     - Website: [Link to site](https://www.greenlightecology.co.uk/)
-
-
-## Spare Time
-
-- Coding practice & C development  
-  - Ongoing algorithms & data structures practice and C exercises (The C programming language, Head First C, Learn C the Hard Way).
-  - Chess engine — Building a from‑scratch chess engine as a learning project. Implementing board/FEN I/O, robust move generation + make/unmake, perft tests for correctness, and a search stack (minimax → alpha‑beta → iterative deepening) with UCI support planned. Emphasis on correctness-first development, perft regression tests, and sanitizer-friendly code. Repo: [Link](https://github.com/Shab00/chessEngine)
-
-## MSc & Coursework
-
-- MSc Computing (in progress) — The Open University  
-  - Current module: M816 Data Management (DAMA‑DMBOK2) — topics include data governance, data quality, metadata management, master data management, data architecture and lifecycle.  
-  - I’m mapping module concepts to my projects and will publish governance & QA artifacts (e.g., governance markdown, metadata catalog, data-quality checks) as I complete them.
-
-## 🌐 Connect
-
-- [LinkedIn](https://www.linkedin.com/in/bashaar-dhoot/)  
-- [Twitter/X](https://x.com/Bashaar13578392)  
-- bashaardhoot@gmail.com
+[View repository](https://github.com/Shab00/Over-Under2.5Goals)
 
 ---
 
-_Thanks for visiting my profile!_
+### C Chess Engine
+A correctness-first chess engine written in C, focused on move generation, perft validation, alpha-beta search, tactical regression, and UCI support.
+
+**Highlights:**
+- perft-tested move generation
+- tactical test harness integrated with CI
+- quiescence search, move ordering, and transposition tables
+- sanitizer-friendly debugging and reproducible testing
+
+[View repository](https://github.com/Shab00/chessEngine)
+
+---
+
+### Chess Engine WASM Demo
+A browser-based WebAssembly project that connects my custom C chess engine to a web UI for local play and engine interaction.
+
+**Highlights:**
+- C to WebAssembly compilation with Emscripten
+- JavaScript ↔ WASM engine integration
+- browser board rendering and FEN sync
+- local engine-driven move flow
+
+[View repository](https://github.com/Shab00/chess-engine-wasm)
+
+---
+
+### Technical Portfolio
+A curated repository of selected academic and personal technical work, including project write-ups and computing coursework.
+
+[View repository](https://github.com/Shab00/technical-portfolio)
+
+## Other Work
+
+### Greenlight Ecology Website
+Designed and deployed the official website for a startup client as an end-to-end IT consulting project, including static site build and AWS deployment.
+
+[Visit website](https://www.greenlightecology.co.uk/)
+
+## Current Focus
+- expanding my technical portfolio with selected project work
+- continuing development of practical ML and backend systems
+- applying data management and governance concepts from my MSc to real projects
+
+## Tech
+**Languages:** Python, C, JavaScript, SQL  
+**Tools:** FastAPI, Docker, Git/GitHub, Jupyter, LightGBM, Prometheus, Grafana, AWS
+
+## Connect
+- [LinkedIn](https://www.linkedin.com/in/bashaar-dhoot/)
+- Email: bashaardhoot@gmail.com
