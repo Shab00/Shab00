@@ -2,7 +2,7 @@
 
 I’m an MSc Computing student with a strong interest in software engineering, machine learning, backend systems, and data-driven applications.
 
-Most of my experience has been built through hands-on technical projects. I enjoy taking ideas from prototype to working system, learning quickly when I hit gaps, and improving projects through iteration, testing, and careful debugging.
+Most of my experience has been built through hands-on technical projects. I enjoy taking ideas from prototype to working systems, learning quickly when I hit gaps, and improving projects through iteration, testing, and careful debugging.
 
 ## What I work on
 - Python backend systems
@@ -26,29 +26,19 @@ An end-to-end Premier League prediction pipeline built with Python, LightGBM, Fa
 
 ---
 
-### C Chess Engine
-A correctness-first chess engine written in C, focused on move generation, perft validation, alpha-beta search, tactical regression, and UCI support.
+### C Chess Engine + WASM Demo
+A correctness-first chess engine written in C, extended into a browser-based WebAssembly demo that connects the engine to a web UI for interactive play and testing.
 
 **Highlights:**
-- perft-tested move generation
-- tactical test harness integrated with CI
-- quiescence search, move ordering, and transposition tables
-- sanitizer-friendly debugging and reproducible testing
-
-[View repository](https://github.com/Shab00/chessEngine)
-
----
-
-### Chess Engine WASM Demo
-A browser-based WebAssembly project that connects my custom C chess engine to a web UI for local play and engine interaction.
-
-**Highlights:**
+- perft-tested move generation and tactical regression
+- quiescence search, move ordering, transposition tables, and UCI support
 - C to WebAssembly compilation with Emscripten
-- JavaScript ↔ WASM engine integration
-- browser board rendering and FEN sync
-- local engine-driven move flow
+- JavaScript ↔ WASM integration, browser board rendering, and FEN synchronization
 
-[View repository](https://github.com/Shab00/chess-engine-wasm)
+**Links:**
+- [C Chess Engine repository](https://github.com/Shab00/chessEngine)
+- [Chess Engine WASM repository](https://github.com/Shab00/chess-engine-wasm)
+- [Live demo](https://shab00.github.io/chess/)
 
 ---
 
@@ -60,13 +50,13 @@ A curated repository of selected academic and personal technical work, including
 ## Other Work
 
 ### Greenlight Ecology Website
-Designed and deployed the official website for a startup client as an end-to-end IT consulting project, including static site build and AWS deployment.
+Designed and deployed the official website for a startup client as an end-to-end IT consulting project, including static site development and AWS deployment.
 
 [Visit website](https://www.greenlightecology.co.uk/)
 
 ## Current Focus
 - expanding my technical portfolio with selected project work
-- continuing development of practical ML and backend systems
+- continuing development of practical machine learning and backend systems
 - applying data management and governance concepts from my MSc to real projects
 
 ## Tech
