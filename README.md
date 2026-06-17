@@ -54,6 +54,13 @@ Designed and deployed the official website for a startup client as an end-to-end
 
 [Visit website](https://www.greenlightecology.co.uk/)
 
+### YouTube Content Analysis Project
+A YouTube data analysis project focused on metadata, comments, sentiment, and topic analysis across selected channels.
+
+[View repository](https://github.com/Shab00/redPillYoutube)
+
+---
+
 ## Current Focus
 - expanding my technical portfolio with selected project work
 - continuing development of practical machine learning and backend systems
